@@ -15,9 +15,6 @@ hero:
     - theme: alt
       text: 项目经历
       link: /projects
-    - theme: alt
-      text: 联系我
-      link: /contact
 
 features:
   - icon: 🎓

@@ -11,8 +11,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '科研成果', link: '/research' },
-      { text: '项目经历', link: '/projects' },
-      { text: '联系我', link: '/contact' }
+      { text: '项目经历', link: '/projects' }
     ],
     
     footer: {
